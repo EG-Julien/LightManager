@@ -1,12 +1,12 @@
 # LightManager
 Led Brightness controller controlled over UNO serial
 
-#Who to build ?
+# How to build ?
 
 Connect your LED on pins {3, 5, 6, 9} (with a resistor to protect them).
 Upload this sketch and enjoy !
 
-#Use it
+# Use it
 
 To change led control type c"id", then type a percentage.
 Example :
