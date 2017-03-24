@@ -2,6 +2,8 @@
 #include <Arduino.h>
 
 
+// TODO : Structure variable !
+
 const int colors[4] = {3, 5, 6, 9};
 int colors_s[4] = {0, 0, 0, 0};
 
